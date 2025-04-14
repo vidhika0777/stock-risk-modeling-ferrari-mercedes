@@ -14,8 +14,10 @@ An interactive **Streamlit dashboard** that compares the **risk and volatility**
 - 📈 Visualizes histograms with VaR lines  
 - 🖥️ Interactive sidebar to customize **date range**
 
----
+## 🚀 Deployed App
+Check out the live app to interact with the dashboard and explore stock risk analysis:
 
+🔗 [Ferrari vs Mercedes Stock Risk Dashboard]---(https://vidhika0777raceapp-l6hnakeru2.streamlit.app/)
 ## 🚀 Run Locally
 
 1. Clone the repository:
